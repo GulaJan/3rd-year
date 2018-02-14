@@ -1,7 +1,0 @@
-INFILE=C:\FitkitSVN\apps\demo\led danko\build\fpga\kblcd.par.ncd
-OUTFILE=C:\FitkitSVN\apps\demo\led danko\build\kblcd.bit
-FAMILY=Spartan3
-PART=xc3s50-4pq208
-WORKINGDIR=C:\FitkitSVN\apps\demo\led danko\build
-LICENSE=WebPack
-USER_INFO=211194594_0_0_458
