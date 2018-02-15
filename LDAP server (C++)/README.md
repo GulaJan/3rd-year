@@ -21,11 +21,11 @@ Server side:
 
 Client side:
 
-**ldapsearch -h localhost -p 7588 -x uid="xb*"**
-**ldapsearch -h localhost -p 7588 -x uid="xburza00"**
-**ldapsearch -h localhost -p 7588 -x cn="Bu*Ma*"**
-**ldapsearch -h localhost -p 7588 -x "(&(cn=Bu*Ma*)(uid=xburza*))"**
-**ldapsearch -h localhost -p 7588 -x "(|(cn=Bu*Ma*)(uid=xburza*))"**
-**ldapsearch -h localhost -p 7588 -x "(!(cn=Bu*Ma*))"**
+**ldapsearch -h localhost -p 7588 -x uid="xb*"**  
+**ldapsearch -h localhost -p 7588 -x uid="xburza00"**  
+**ldapsearch -h localhost -p 7588 -x cn="Bu*Ma*"**  
+**ldapsearch -h localhost -p 7588 -x "(&(cn=Bu*Ma*)(uid=xburza*))"**  
+**ldapsearch -h localhost -p 7588 -x "(|(cn=Bu*Ma*)(uid=xburza*))"**  
+**ldapsearch -h localhost -p 7588 -x "(!(cn=Bu*Ma*))"**  
 
 
