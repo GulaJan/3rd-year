@@ -17,7 +17,7 @@ This project is my implementation of a parallel non-blocking Lightweight directo
 
 Server side:
 
-**./myldap -p 7588 -f input.csv
+**./myldap -p 7588 -f input.csv**
 
 Client side:
 
